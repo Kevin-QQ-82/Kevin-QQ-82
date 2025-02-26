@@ -1,5 +1,7 @@
 ¡Hola! 👋
+
 Soy Kevin Quintuña, un apasionado desarrollador de software con experiencia en desarrollo web. Me encanta crear soluciones innovadoras y eficientes utilizando tecnologías como python, javascript, entre otras.
+
 Sobre mí
 🎓 Estudiante de Ingeniería en Computación.
 Habilidades
